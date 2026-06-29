@@ -111,7 +111,6 @@ I enjoy solving real-world problems through technology and continuously learning
 - 🎨 HTML5, CSS3, JavaScript
 - ⚛️ React.js
 - 🐙 Git & GitHub
-- 💻 Data Structures & Algorithms
 
 ---
 
